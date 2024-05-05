@@ -1,4 +1,7 @@
 # RCB
+
+Projeto desktop feito na linguagem Java, utilizando o Swing para o front-end e o PostgreSQL como banco de dados. O objetivo foi criar um sistema para uma escola hipotética que fosse capaz de gerenciar alunos, cursos e matrículas.
+
 ### Tela inicial
 ![WhatsApp Image 2024-05-04 at 14 06 14](https://github.com/PenguinGuerrilla/RCB/assets/146377085/5e425f12-3349-4cbb-ad01-6a15733cd47b)
 ### Menu Alunos: Opção Cadastrar
